@@ -1,5 +1,5 @@
-1. monitori
-2. mausi
-3. tastaturi
-4. laptopi
-5. printeri
+1. monitori x1
+2. mausi x2
+3. tastaturi x3
+4. laptopi x4
+5. printeri x5
