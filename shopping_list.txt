@@ -1,0 +1,5 @@
+1. monitori
+2. mausi
+3. tastaturi
+4. laptopi
+5. printeri
